@@ -11,3 +11,7 @@ spring:
         ddl-auto: validate
   flyway:
     enabled: true
+jwt:
+  secret:
+    access: supermegasecret35gdsgegGDSgrsg$ehg$E34He35gdsgegGDSgrsg$ehg$E34He
+    refresh: supermegarefreshsecret35gdsgegGDSgrsg$ehg$E34He35gdsgegGDSgrsg$ehg$E34He
